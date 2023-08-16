@@ -4,20 +4,15 @@
 
 
 <div>
-<img align="left" height:75%; width:75; src="">
+<img align="left" height:25%; width:25; src="https://github.com/XnoahR/XnoahR/blob/main/img/download.jpg">
 
- <p align="right">
+ <p align="right" >
 
-- pursuing a bachelor's degree in computer science. 26th batch of Cyber Security (Hons) graduates
+<br><br>
+- Informatics Student in Sebelas Maret University.💻
+<br><br>
+- I'm studying about Web Development and Game Dev using JS and C#.
+<br><br>
+- Contact me  **rio.ae23@gmail.com**
 
-- I'm studying Python and C++ right now for <a href="https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series" target="blank">140 DSA Lec</a>
-
-- I'm open to freelance work.
-
-- Let's talk about **Graphics Design**
-
-- How to contact me  **kalistoroy619@gmail.com**
-
-- Know about my experiences <a href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf" target="blank">Resume</a></p>
-</div>
-
+</p>
