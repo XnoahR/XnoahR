@@ -11,7 +11,7 @@
 <br><br>
 - Informatics Student in Sebelas Maret University.💻
 <br><br>
-- I'm studying about Web Development and Game Dev using JS and C#.
+- I'm studying about Web Development and Game Dev.
 <br><br>
 - Contact me  **rio.ae23@gmail.com**
 
