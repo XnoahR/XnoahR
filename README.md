@@ -3,9 +3,10 @@
 ### <h3 style="color:purple" align="center">こんにちは世界</h3>
 
 
-<img align="center" height:25%; width:25; src="https://github.com/XnoahR/XnoahR/blob/main/img/futaba-sakura.jpg">
 
-<div>
+<div align="center">
+<img height:25%; width:25; src="https://github.com/XnoahR/XnoahR/blob/main/img/futaba-sakura.gif">
+</div>
 
  <p >
 
