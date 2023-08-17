@@ -3,10 +3,11 @@
 ### <h3 style="color:purple" align="center">こんにちは世界</h3>
 
 
-<div>
-<img align="left" height:25%; width:25; src="https://github.com/XnoahR/XnoahR/blob/main/img/download.jpg">
+<img align="center" height:25%; width:25; src="https://github.com/XnoahR/XnoahR/blob/main/img/futaba-sakura.jpg">
 
- <p align="right" >
+<div>
+
+ <p >
 
 <br><br>
 - Informatics Student in Sebelas Maret University.💻
