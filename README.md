@@ -1,6 +1,6 @@
 # <p align="center">▀▄▀▄▀▄▀▄▀▄▀▄  Hi, Ray Here! ▄▀▄▀▄▀▄▀▄▀▄▀</p> 
 
-### <h3 style="color:purple" align="center">こんにちは世界</h3>
+### <h3 style="color:purple" align="center">こんにちは</h3>
 
 
 
