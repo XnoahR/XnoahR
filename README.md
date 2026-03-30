@@ -10,8 +10,7 @@
 
  <p >
 
-<br><br>
-- Informatics Student in Sebelas Maret University.💻
+
 <br><br>
 - I'm studying about Web Development and Game Dev.
 <br><br>
