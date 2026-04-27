@@ -10,7 +10,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
 ```
 
-<img src="https://tenor.com/view/ryo-yamada-bass-ryo-yamada-bocchi-the-rock-gif-27421567.gif" width="300">
+<img src="https://github.com/XnoahR/XnoahR/blob/main/img/ryo-yamada.gif" width="300">
 
 `freelance dev` · `ai engineer` · `vibe coder` 
 
