@@ -12,7 +12,7 @@
 
 <img src="https://github.com/XnoahR/XnoahR/blob/main/img/ryo-yamada.gif" width="300">
 
-`freelance dev` · `ai engineer` · `vibe coder` 
+`freelance dev` · `ai native engineer` · `vibe coder` 
 
 *trying to do better, one commit at a time.*
 
